@@ -1,2 +1,3 @@
-# google-tag-manager
-Void Analytics template for Google Tag Manager (GTM)
+# GTM template for Void Analytics
+
+[Void Analytics](https://www.voidanalytics.com) integration via Google Tag Manager.
