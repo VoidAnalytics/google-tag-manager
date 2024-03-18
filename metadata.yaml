@@ -1,0 +1,5 @@
+homepage: "https://www.voidanalytics.com/"
+documentation: "https://www.voidanalytics.com/install-void-analytics-via-google-tag-manager"
+versions:
+  - sha: efa266c2107f675c9487eb1c9f8bb4a8a1c06ff0
+    changeNotes: Initial release.
